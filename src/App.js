@@ -4,10 +4,12 @@ import Home from './Home';
 import About from './About';
 import NavBar from './NavBar';
 import Invoice from './Invoice';
+import Header from './Components/Header';
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <h1> Welcome </h1>
       <NavBar/>
       <Routes>
