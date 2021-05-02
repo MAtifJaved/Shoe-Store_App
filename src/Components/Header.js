@@ -24,7 +24,7 @@ export default function SearchAppBar() {
       <AppBar position="static">
         <Toolbar>
           <Typography className={classes.title} variant="h4" noWrap>
-            Shoes Planet
+            Shoes Planet Store
           </Typography>
         </Toolbar>
         <NavBar />
